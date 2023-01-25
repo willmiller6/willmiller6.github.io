@@ -4,7 +4,7 @@
 
 ### Data Analysis Projects
 
-[Analysis of the Oklahoma State Legislature](\sample_page)
+[Analysis of the Oklahoma State Legislature](OK-W-Nominate-2022/Oklahoma-Partisan-Behavior-Analysis.html)
 
 <img src="images/House Partisan Scores.png?raw=true"/>
 
