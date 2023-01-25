@@ -4,7 +4,7 @@
 
 ### Data Analysis Projects
 
-[Analysis of the Oklahoma State Legislature](images/Oklahoma-Partisan-Behavior-Analysis.html)
+[Analysis of the Oklahoma State Legislature](pdf/Oklahoma-Partisan-Behavior-Analysis (1).html)
 
 <img src="images/House Partisan Scores.png?raw=true"/>
 
