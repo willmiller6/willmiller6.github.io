@@ -4,9 +4,9 @@
 
 ### Data Analysis Projects
 
-[Analysis of the Oklahoma State Legislature](pdf/Oklahoma-Partisan-Behavior-Analysis (2).html)
+[Busting the Urban-Rural Myth in Oklahoma](pdf/Busting-the-Oklahoma-Urban-Rural-Myth.html)
 
-<img src="images/House Partisan Scores.png?raw=true"/>
+<img src="pdf/Demographics and House Partisan Scores.png?raw=true"/>
 
 ---
 
