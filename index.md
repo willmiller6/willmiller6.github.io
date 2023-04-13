@@ -12,7 +12,7 @@
 
 ### Qualitative Analysis Projects
 
-[Candidate Strategy Briefing: Chris Sununu (P SC 3433)](willmiller6.github.io/pdf/Voters and Campaigns Campaign Strategy Brief--Will Miller (1).docx)
+[Candidate Strategy Briefing: Chris Sununu (P SC 3433)](pdf/Voters and Campaigns Campaign Strategy Brief--Will Miller (1).docx)
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
