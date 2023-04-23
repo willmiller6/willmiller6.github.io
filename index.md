@@ -10,7 +10,7 @@
 
 ---
 
-### Qualitative Analysis Projects
+### Writing Sample
 
 [Candidate Strategy Briefing: Chris Sununu (P SC 3433)](pdf/Voters and Campaigns Campaign Strategy Brief--Will Miller (1).docx)
 
