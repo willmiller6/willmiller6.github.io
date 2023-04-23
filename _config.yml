@@ -4,6 +4,9 @@ description: > # your text below (remove <br> elements if you don't need line br
   My name is William Miller and I study Political Science, Economics, and History at the University of Oklahoma.
   It is my goal to use data analytics to help drive the next generation of public policy.
   <br><br> 
+  <a href= "https://politicaldataanalytics.com/">My Newsletter</a>
+  
+  <a href= "https://www.linkedin.com/in/williammiller6/">My LinkedIn</a>
   
 theme: jekyll-theme-minimal
 
