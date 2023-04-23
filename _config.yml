@@ -3,11 +3,10 @@ logo: "images/Professional Photo (2).jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   My name is William Miller and I study Political Science, Economics, and History at the University of Oklahoma.
   It is my goal to use data analytics to help drive the next generation of public policy.
-  <br><br>
   I am proficient in both R and Python and have a working knowledge of statistical methods used in social science research and data analysis.
-  <br><br>
+  <br>
   <a href= "https://politicaldataanalytics.com/">My Newsletter</a>
-  <br><br>
+  <br>
   <a href= "https://www.linkedin.com/in/williammiller6/">My LinkedIn</a>
   
 theme: jekyll-theme-minimal
