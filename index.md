@@ -2,9 +2,15 @@
 
 ---
 
-### Data Analysis Projects
+### Undergraduate Research Fellowship Project
 
 [Busting the Urban-Rural Myth in Oklahoma](pdf/Busting-the-Oklahoma-Urban-Rural-Myth.html)
+
+---
+
+### Writing Sample
+
+[Candidate Strategy Briefing: Chris Sununu (P SC 3433)](pdf/Voters and Campaigns Campaign Strategy Brief--Will Miller (1).docx)
 
 ---
 
@@ -22,10 +28,6 @@
 
 ---
 
-### Writing Sample
 
-[Candidate Strategy Briefing: Chris Sununu (P SC 3433)](pdf/Voters and Campaigns Campaign Strategy Brief--Will Miller (1).docx)
-
----
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
