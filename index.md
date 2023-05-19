@@ -16,6 +16,8 @@
 
 ### Data Driven Politics Newsletter Code
 
+[Newsletter #6 - How Not to Make a Graph](pdf/Agency-Appropriations-by-Year-Remastered.html)
+
 [Newsletter #5 - How Partisans Feel About the Parties](pdf/DDP-Newsletter--5--How-Partisans-Feel-About-the-Parties.html)
 
 [Newsletter #4 - Conservatives and Racial Resentment](pdf/DDP-Newsletter--4--Racial-Resentment-by-Party.html)
