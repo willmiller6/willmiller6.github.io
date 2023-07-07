@@ -14,6 +14,12 @@
 
 ---
 
+### Data Visualization Gallery
+
+<a href="https://politicaldataanalytics.com/ddp-graph-gallery/">View my Data Viz Gallery</a>
+
+---
+
 ### Data Driven Politics Newsletter Code
 
 [Newsletters 10 & 11 - Congress & NOMINATE Deep Dive](pdf/NOMINATE All Congress.html)
