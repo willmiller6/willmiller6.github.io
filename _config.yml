@@ -5,6 +5,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   It is my goal to use data analytics to help drive the next generation of public policy.
   <br>
   <a href= "https://politicaldataanalytics.com/">My Newsletter</a>
+  <br>
   <a href= "https://www.linkedin.com/in/williammiller6/">My LinkedIn</a>
   
 theme: jekyll-theme-minimal
