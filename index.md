@@ -4,7 +4,7 @@
 
 ### Undergraduate Research Fellowship Project
 
-[Population Density and Legislator Voting Behavior in Oklahoma](pdf/Population-Density-and-Legislator-Voting-Behavior-in-Oklahoma.html))
+[Population Density and Legislator Voting Behavior in Oklahoma](pdf/Population-Density-and-Legislator-Voting-Behavior-in-Oklahoma.html)
 
 ---
 
