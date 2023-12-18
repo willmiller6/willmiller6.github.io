@@ -4,7 +4,7 @@
 
 ### Undergraduate Research Fellowship Project
 
-[Busting the Urban-Rural Myth in Oklahoma](pdf/Busting-the-Oklahoma-Urban-Rural-Myth.html)
+[Population Density and Legislator Voting Behavior in Oklahoma](pdf/Population-Density-and-Legislator-Voting-Behavior-in-Oklahoma.html))
 
 ---
 
