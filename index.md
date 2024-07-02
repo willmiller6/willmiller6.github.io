@@ -2,15 +2,11 @@
 
 ---
 
-### Undergraduate Research Fellowship Project
+### Data Analysis Projects
 
-[Population Density and Legislator Voting Behavior in Oklahoma](pdf/Population-Density-and-Legislator-Voting-Behavior-in-Oklahoma.html)
+[The Relationship Between Democracy and Climate Change](pdf/Capstone Final Draft - William Miller.pdf)
 
----
-
-### Writing Sample
-
-[Candidate Strategy Briefing: Chris Sununu (P SC 3433)](pdf/Voters and Campaigns Campaign Strategy Brief--Will Miller (1).docx)
+[Reevaluating the Flutie Effect in the CFP Era](pdf/Econometrics Final Draft.pdf)
 
 ---
 
